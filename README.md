@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi👋
 I'm a passionate student from Pune Maharashtra India who loves coding and building projects. I'm continuously learning and getting ready to contribute to open source communities.
 
 ## 👇 Current Project
