@@ -1,4 +1,7 @@
 ## Hi there 👋
+I'm a passionate student from Maharashtra India who loves coding and building projects. I'm continuously learning and getting ready to contribute to open source communities.
+
+## Current Project 👇
 
 <!--
 **chaitanya1013/chaitanya1013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
