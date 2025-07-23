@@ -1,15 +1,15 @@
-# Hello, I'm [Chaitanya Purkar]! 👋
+# Hello, I'm Chaitanya Purkar! 👋
 
 💻 A passionate Software Developer from India!  
-🎓 Currently pursuing BTech in Computer Science at [MIT-WPU], [Pune], India  
-📫 How to reach me: [chaitanyapurkar@gmail.com]  
+🎓 Currently pursuing BTech in Computer Science at MIT-WPU, Pune, India  
+📫 How to reach me: chaitanyapurkar@gmail.com  
 
 ---
 
 ### Connect with me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaitanyapurkar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/chaitanya-purkar-a87b65287/))
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-username)](https://leetcode.com/u/chaitanya1310/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]((https://leetcode.com/u/chaitanya1310/))
 
 ---
 
@@ -24,22 +24,3 @@
 |         | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
 ---
-
-🔗 **You can copy and paste this code into your `README.md` file.**
-You can also customize:
-- Your name
-- College
-- Email
-- Skill badges ([Badges from Shields.io](https://shields.io/))
-- Add emojis for fun touch (like ⚡, 🎱, ♟️)
-
----
-
-Would you like me to generate this README for your GitHub username? Just share:
-- Your full name
-- College name
-- Email or contact link
-- Skills
-- Any fun fact or hobbies
-
-I'll prepare the complete file for you.
