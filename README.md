@@ -8,8 +8,8 @@
 
 ### Connect with me:
 [<img width="48" height="48" src="https://img.icons8.com/color/48/gmail--v1.png" alt="gmail--v1"/>](mailto:chaitanyapurkar@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/chaitanya-purkar-a87b65287/))
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]((https://leetcode.com/u/chaitanya1310/))
+[<img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>]((https://www.linkedin.com/in/chaitanya-purkar-a87b65287/))
+[<img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo"/>]((https://leetcode.com/u/chaitanya1310/))
 
 ---
 
