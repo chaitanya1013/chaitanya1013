@@ -13,7 +13,7 @@
 <!-- [<img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="leetcode"/>](https://leetcode.com/u/chaitanya1310/)
 -->
 ---
-
+<!--
 ### 🛠 Technical Skills:
 
 | Languages | Frontend | Tools & DB |
